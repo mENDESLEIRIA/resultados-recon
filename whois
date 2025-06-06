@@ -1,0 +1,24 @@
+Domain: gov.pt
+Domain Status: Registered
+Creation Date: 14/05/1996 00:00:00
+Expiration Date: 31/12/2025 23:59:00
+Owner Name: Associação DNS.PT
+Owner Address: Rua Eça de Queirós  29
+Owner Locality: Lisboa
+Owner ZipCode: 1050-095
+Owner Locality ZipCode: LISBOA
+Owner Country Code: PT
+Owner Email: secretariado@pt.pt,request@pt.pt
+Admin Name: Associação DNS.PT
+Admin Address: Rua Eça de Queirós  29
+Admin Locality: Lisboa
+Admin ZipCode: 1050-095
+Admin Locality ZipCode: LISBOA
+Admin Country Code: PT
+Admin Email: secretariado@pt.pt,request@pt.pt
+Name Server: a.dns.pt | IPv4:  and IPv6: 
+Name Server: dns1.gov.pt | IPv4: 193.47.185.3 and IPv6: 
+Name Server: ns02.fccn.pt | IPv4: 193.136.2.228 and IPv6: 2001:690:a80:4001::200
+Name Server: europe1.dnsnode.net | IPv4:  and IPv6: 
+Name Server: nsp.dnsnode.net | IPv4:  and IPv6: 
+gov.pt IN DS  10 2 3804088045D4F3A870C13A8E45329862D997D1CFB6E6EF94777B195AE0DC95D0
